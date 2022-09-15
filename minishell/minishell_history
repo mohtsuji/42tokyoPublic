@@ -1,0 +1,11 @@
+cd ..
+ls
+pwd
+cd minishell
+ls
+cd builtins
+ls
+exit
+tako
+ls
+exit

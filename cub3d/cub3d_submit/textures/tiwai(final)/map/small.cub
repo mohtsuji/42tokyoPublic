@@ -1,0 +1,15 @@
+R 640 510
+NO ./pics/eagle.xpm
+SO ./pics/mossy.xpm
+WE ./pics/redbrick.xpm
+EA ./pics/bluestone.xpm
+
+S ./pics/barrel.xpm
+F 225,100,0
+C 225,30,0
+
+111111
+1000N1
+120001
+100001
+111111
